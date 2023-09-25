@@ -8,7 +8,7 @@ Nome: João Victor Garcia
 
 Descrição do Projeto 
 
-Este repositório contém o código-fonte e a documentação para o projeto de Tecnólogo em Análise e Desenvolvimento de Sistemas desenvolvido por Bruno Novais e João Victor Garcia, como parte de seu trabalho universitário no ano de 2023. O projeto visa a elaboração de um sistema funcional e documentado como solução para agendamento de serviços de barbearia. 
+Este repositório contém o código-fonte e a documentação para o projeto de Tecnólogo em Análise e Desenvolvimento de Sistemas desenvolvido por Bruno Novais e João Victor Garcia, como parte de seu trabalho universitário na matéria Análise de Projeto de Sistemas II no ano de 2023. O projeto visa a elaboração de um sistema funcional e documentado como solução para agendamento de serviços de barbearia. 
 
 
 
@@ -18,5 +18,9 @@ O progresso e o gerenciamento de tarefas deste projeto são realizados através 
 https://trello.com/invite/b/ppCw48mn/ATTI4c2daa35bbd522b9c1732d9c07854db37B314ADB/pi2
 
 
+
 Também é possível acompanhar as atualizações da documentação através do link
 https://1drv.ms/w/s!AuO9Kl8tYpnwsUGVdSeBKYjAVhka?e=qsJ4Wu
+
+Termo de Abertura de Projeto (TAP)
+https://1drv.ms/w/s!AuO9Kl8tYpnwsTWnxOm2xkGNaWMu?e=4BZgFH
